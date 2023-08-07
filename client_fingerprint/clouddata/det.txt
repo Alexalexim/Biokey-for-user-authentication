@@ -1,0 +1,4 @@
+change path
+--verify_finger
+--verify_finger2
+--downfile

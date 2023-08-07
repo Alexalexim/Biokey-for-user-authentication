@@ -1,0 +1,25 @@
+<?php
+include("include/dbconnect.php");
+extract($_REQUEST);
+$rdate=date("d-m-Y");
+$ch1=mktime(date('h')+5,date('i')+30,date('s'));
+$rtime=date('h:i:s A',$ch1);
+
+$mq=mysqli_query($connect,"select max(id) from fp_det2");
+$mr=mysqli_fetch_array($mq);
+$id=$mr['max(id)']+1;
+
+$ss=explode("/",$status);
+$bc=$ss[0];
+
+$qry=mysqli_query($connect,"insert into fp_det2(id,details,rdate,rtime,bcode) values($id,'$status','$rdate','$rtime','$bc')");
+if($qry)
+{
+echo "stored";
+}
+else
+{
+echo "failed";
+}
+
+?>
