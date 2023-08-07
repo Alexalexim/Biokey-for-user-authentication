@@ -1,0 +1,223 @@
+[Tue Apr 04 19:11:11 2023] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Tue Apr 04 19:11:11 2023] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Apr 04 19:11:11 2023] [notice] Parent: Created child process 3852
+[Tue Apr 04 19:11:12 2023] [notice] Child 3852: Child process is running
+[Tue Apr 04 19:11:12 2023] [notice] Child 3852: Acquired the start mutex.
+[Tue Apr 04 19:11:12 2023] [notice] Child 3852: Starting 64 worker threads.
+[Tue Apr 04 19:11:12 2023] [notice] Child 3852: Starting thread to listen on port 80.
+[Tue Apr 04 19:18:00 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/
+[Tue Apr 04 19:34:45 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/
+[Tue Apr 04 19:34:55 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Tue Apr 04 19:35:26 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Tue Apr 04 19:35:29 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?id=3
+[Tue Apr 04 19:36:02 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?act=success&id=3
+[Tue Apr 04 19:36:05 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Tue Apr 04 19:37:27 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Tue Apr 04 19:39:46 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_finger_verify.php?fid=12
+[Tue Apr 04 19:40:10 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_finger_verify.php?act=wrong&fid=12
+[Tue Apr 04 19:40:20 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/client_fingerprint/verify_enc.php?fid=12
+[Tue Apr 04 19:40:24 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_files.php
+[Tue Apr 04 19:40:31 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/reg_user.php
+[Tue Apr 04 19:41:13 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?id=4
+[Tue Apr 04 19:41:41 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?act=success&id=4
+[Tue Apr 04 19:41:41 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?act=success&id=4
+[Tue Apr 04 19:41:44 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Tue Apr 04 19:41:51 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_files.php
+[Tue Apr 04 19:41:56 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/file_access.php?fid=12
+[Tue Apr 04 19:42:09 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/file_access.php?fid=12
+[Tue Apr 04 19:42:16 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Tue Apr 04 19:42:17 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/login_user.php
+[Tue Apr 04 19:42:27 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/user_home.php
+[Tue Apr 04 19:42:34 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/user_decrypt.php?fid=12
+[Tue Apr 04 19:47:43 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/
+[Tue Apr 04 19:48:01 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Tue Apr 04 19:48:41 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Tue Apr 04 19:48:44 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?id=5
+[Tue Apr 04 19:49:08 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?act=success&id=5
+[Tue Apr 04 19:49:11 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Tue Apr 04 19:49:30 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Tue Apr 04 19:50:25 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_finger_verify.php?fid=13
+[Tue Apr 04 19:51:08 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/client_fingerprint/verify_enc.php?fid=13
+[Tue Apr 04 19:51:12 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_files.php
+[Tue Apr 04 19:51:23 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/reg_user.php
+[Tue Apr 04 19:52:11 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?id=6
+[Tue Apr 04 19:52:26 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?act=success&id=6
+[Tue Apr 04 19:52:29 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Tue Apr 04 19:52:51 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Tue Apr 04 19:53:03 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Tue Apr 04 19:57:01 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/
+[Tue Apr 04 19:57:42 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Tue Apr 04 19:58:14 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Tue Apr 04 19:58:47 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Tue Apr 04 19:59:19 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Tue Apr 04 19:59:22 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?id=7
+[Tue Apr 04 19:59:42 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?act=success&id=7
+[Tue Apr 04 19:59:46 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Tue Apr 04 20:02:15 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Tue Apr 04 20:05:06 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_finger_verify.php?fid=14
+[Tue Apr 04 20:06:18 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/client_fingerprint/verify_enc.php?fid=14
+[Tue Apr 04 20:06:21 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_files.php
+[Tue Apr 04 20:06:57 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/reg_user.php
+[Tue Apr 04 20:07:56 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?id=8
+[Tue Apr 04 20:08:36 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?act=success&id=8
+[Tue Apr 04 20:08:39 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Tue Apr 04 20:09:03 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_files.php
+[Tue Apr 04 20:09:11 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/file_access.php?fid=14
+[Tue Apr 04 20:09:43 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/file_access.php?fid=14
+[Tue Apr 04 20:09:55 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Tue Apr 04 20:10:11 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/login_user.php
+[Tue Apr 04 20:10:27 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/user_home.php
+[Tue Apr 04 20:10:38 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/user_decrypt.php?fid=14
+[Thu Apr 06 01:42:02 2023] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 06 01:42:02 2023] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu Apr 06 01:42:02 2023] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Apr 06 01:42:02 2023] [notice] Parent: Created child process 2812
+[Thu Apr 06 01:42:03 2023] [notice] Child 2812: Child process is running
+[Thu Apr 06 01:42:03 2023] [notice] Child 2812: Acquired the start mutex.
+[Thu Apr 06 01:42:03 2023] [notice] Child 2812: Starting 64 worker threads.
+[Thu Apr 06 01:42:03 2023] [notice] Child 2812: Starting thread to listen on port 80.
+[Thu May 11 16:25:30 2023] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 11 16:25:30 2023] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu May 11 16:25:30 2023] [notice] Server built: Jan 18 2008 00:37:19
+[Thu May 11 16:25:30 2023] [notice] Parent: Created child process 12088
+[Thu May 11 16:25:30 2023] [notice] Child 12088: Child process is running
+[Thu May 11 16:25:30 2023] [notice] Child 12088: Acquired the start mutex.
+[Thu May 11 16:25:30 2023] [notice] Child 12088: Starting 64 worker threads.
+[Thu May 11 16:25:30 2023] [notice] Child 12088: Starting thread to listen on port 80.
+[Thu May 11 16:26:30 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/industries.html, referer: http://localhost/client_fingerprint/index.php
+[Thu May 11 16:26:30 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Thu May 11 16:35:53 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Thu May 11 17:00:49 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/browserconfig.xml
+[Thu May 11 17:01:20 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/
+[Thu May 11 17:01:24 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 17:03:16 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 17:03:19 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?id=10
+[Thu May 11 17:05:15 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?act=success&id=10
+[Thu May 11 17:05:18 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Thu May 11 17:08:38 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Thu May 11 17:10:02 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Thu May 11 17:10:23 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_finger_verify.php?fid=18
+[Thu May 11 17:11:00 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/client_fingerprint/verify_enc.php?fid=18
+[Thu May 11 17:11:04 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_files.php
+[Thu May 11 17:12:13 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/reg_user.php
+[Thu May 11 17:13:35 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?id=11
+[Thu May 11 17:13:57 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?act=success&id=11
+[Thu May 11 17:13:57 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?act=success&id=11
+[Thu May 11 17:14:00 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Thu May 11 17:14:23 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_files.php
+[Thu May 11 17:14:37 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/file_access.php?fid=18
+[Thu May 11 17:14:49 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/file_access.php?fid=18
+[Thu May 11 17:15:03 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Thu May 11 17:15:29 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Thu May 11 17:15:41 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/login_user.php
+[Thu May 11 17:15:52 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/user_home.php
+[Thu May 11 17:15:57 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/user_decrypt.php?fid=18
+[Thu May 11 17:16:40 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/login_user.php
+[Thu May 11 17:21:29 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/
+[Thu May 11 17:21:37 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 17:22:04 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/
+[Thu May 11 17:22:10 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 17:22:46 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 17:22:49 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?id=12
+[Thu May 11 17:23:10 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?act=success&id=12
+[Thu May 11 17:23:10 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?act=success&id=12
+[Thu May 11 17:23:13 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Thu May 11 17:25:13 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/login_user.php
+[Thu May 11 17:26:05 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Thu May 11 17:26:20 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Thu May 11 17:28:31 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Thu May 11 17:29:38 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_finger_verify.php?fid=19
+[Thu May 11 17:30:24 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/client_fingerprint/verify_enc.php?fid=19
+[Thu May 11 17:30:28 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_files.php
+[Thu May 11 17:31:10 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/reg_user.php
+[Thu May 11 17:31:38 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/reg_user.php
+[Thu May 11 17:32:09 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?id=13
+[Thu May 11 17:32:50 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?id=13
+[Thu May 11 17:32:57 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?id=13
+[Thu May 11 17:33:23 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?act=success&id=13
+[Thu May 11 17:33:23 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?act=success&id=13
+[Thu May 11 17:33:26 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Thu May 11 17:34:17 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_files.php
+[Thu May 11 17:34:28 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/file_access.php?fid=19
+[Thu May 11 17:34:47 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/file_access.php?fid=19
+[Thu May 11 17:35:34 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/login_user.php
+[Thu May 11 17:35:43 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/industries.html, referer: http://localhost/client_fingerprint/login_user.php
+[Thu May 11 17:35:48 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/login_user.php
+[Thu May 11 17:35:54 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/login_user.php
+[Thu May 11 17:36:10 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/user_home.php
+[Thu May 11 17:36:27 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/user_decrypt.php?fid=19
+[Thu May 11 17:39:09 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/industries.html, referer: http://localhost/client_fingerprint/
+[Thu May 11 17:39:58 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/
+[Thu May 11 17:40:31 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 17:41:08 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 17:41:11 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?id=14
+[Thu May 11 17:41:35 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?act=success&id=14
+[Thu May 11 17:41:35 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?act=success&id=14
+[Thu May 11 17:41:38 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Thu May 11 17:42:57 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Thu May 11 17:47:16 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Thu May 11 17:47:54 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_finger_verify.php?fid=20
+[Thu May 11 17:50:13 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_finger_verify.php?fid=20
+[Thu May 11 17:50:55 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_finger_verify.php?fid=20
+[Thu May 11 17:51:07 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/client_fingerprint/verify_enc.php?fid=20
+[Thu May 11 17:51:10 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_files.php
+[Thu May 11 17:52:13 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/reg_user.php
+[Thu May 11 17:52:57 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?id=15
+[Thu May 11 17:53:27 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger2.php?act=success&id=15
+[Thu May 11 17:53:31 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Thu May 11 17:53:52 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_files.php
+[Thu May 11 17:54:07 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/file_access.php?fid=20
+[Thu May 11 17:54:18 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/file_access.php?fid=20
+[Thu May 11 17:54:24 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Thu May 11 17:54:48 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/login_user.php
+[Thu May 11 17:55:03 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/user_home.php
+[Thu May 11 17:55:07 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/user_decrypt.php?fid=20
+[Thu May 11 17:59:11 2023] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 11 17:59:11 2023] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu May 11 17:59:11 2023] [notice] Server built: Jan 18 2008 00:37:19
+[Thu May 11 17:59:11 2023] [notice] Parent: Created child process 4244
+[Thu May 11 17:59:11 2023] [notice] Child 4244: Child process is running
+[Thu May 11 17:59:11 2023] [notice] Child 4244: Acquired the start mutex.
+[Thu May 11 17:59:11 2023] [notice] Child 4244: Starting 64 worker threads.
+[Thu May 11 17:59:11 2023] [notice] Child 4244: Starting thread to listen on port 80.
+[Thu May 11 18:04:46 2023] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 11 18:04:46 2023] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu May 11 18:04:46 2023] [notice] Server built: Jan 18 2008 00:37:19
+[Thu May 11 18:04:46 2023] [notice] Parent: Created child process 3696
+[Thu May 11 18:04:46 2023] [notice] Child 3696: Child process is running
+[Thu May 11 18:04:46 2023] [notice] Child 3696: Acquired the start mutex.
+[Thu May 11 18:04:46 2023] [notice] Child 3696: Starting 64 worker threads.
+[Thu May 11 18:04:46 2023] [notice] Child 3696: Starting thread to listen on port 80.
+[Thu May 11 18:06:42 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/
+[Thu May 11 18:06:50 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 18:07:33 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 18:07:35 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?id=16
+[Thu May 11 18:08:02 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?act=success&id=16
+[Thu May 11 18:08:02 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?act=success&id=16
+[Thu May 11 18:08:05 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Thu May 11 18:09:26 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Thu May 11 18:10:19 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_finger_verify.php?fid=21
+[Thu May 11 18:10:29 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_files.php
+[Thu May 11 18:10:38 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_files.php
+[Thu May 11 18:10:47 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/reg_user.php
+[Thu May 11 18:10:57 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_files.php
+[Thu May 11 18:11:08 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_finger_verify.php?fid=21
+[Thu May 11 18:12:45 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_finger_verify.php?fid=21
+[Thu May 11 18:13:00 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/client_fingerprint/verify_enc.php?fid=21
+[Thu May 11 18:13:03 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_finger_verify.php?fid=21
+[Thu May 11 18:13:07 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_home.php
+[Thu May 11 18:13:07 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/owner_finger_verify.php?fid=22
+[Thu May 11 18:17:37 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/
+[Thu May 11 18:17:46 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 18:17:48 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/
+[Thu May 11 18:18:54 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 18:23:23 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 18:23:40 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 18:23:55 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 18:23:57 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 18:24:08 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/register.php
+[Thu May 11 18:24:13 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?id=18
+[Thu May 11 18:24:59 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?act=success&id=18
+[Thu May 11 18:25:02 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
+[Thu May 11 18:27:59 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/add_finger.php?act=success&id=18
+[Thu May 11 18:28:02 2023] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/client_fingerprint/site.webmanifest, referer: http://localhost/client_fingerprint/index.php
