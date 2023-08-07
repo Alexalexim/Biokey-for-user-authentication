@@ -1,0 +1,49 @@
+Artificial narrow intelligence (ANI or narrow AI) refers to a computer's ability to perform a single task extremely well, such as crawling a webpage or playing chess. Artificial general intelligence (AGI) is when a computer program can perform any intellectual task that a human could.
+========================
+Feasibility of artificial superintelligence — Some argue that advances in artificial intelligence (AI) will probably result in general reasoning systems .
+==========
+
+
+In artificial intelligence, an expert system is a computer system that emulates the decision-making ability of a human expert. Expert systems are designed to solve complex problems by reasoning through bodies of knowledge, represented mainly as if-then rules rather than through conventional procedural code
+
+=======
+A machine vision system is a type of technology that allows a computing device to inspect, evaluate, and identify still or moving images. ... The implementation of AI has advanced the vision system. In other words, AI is used in vision systems for continuous improvement in recognition applications.
+====================
+bank account number,
+credit or debit card number, driving license number, passport
+number, electronic and digital signatures, biometry informa-
+tion, finngerprints, handwriting, PCI Data, the combination of
+address, bank account number and birthday
+
+
+customer name, address,
+telephone number, email address, birthday, payment history,
+mortgage history, race, color, sexual orientation, commercial
+activities, loan details and any other information that help to
+build customer relations and, protect the organization from
+competitors.
+
+----------
+aadhar---fingerprint,biometric face,aadhar no,qr code,---name,dob,address,gen,photo
+
+Passport--passport no,nationality,signature,photo---gen,dob,place of birth,place of issue
+PAN---ITIN
+Ration---name,fingerprint,address,dob
+motor ins---policy no,vehicle no,driving licence
+travel ins--policy no,
+
+
+
+<table width="791" border="1" align="center" class="table table-striped thead-dark table-bordered table-hover">
+    				<tr style="background-color:#006633; color:#FFFFFF;">
+						<th>Crop</th>
+						<th>Count</th>
+					</tr>
+					{% for rs2 in data5 %}
+						<tr>
+						<td>{{rs2[0]}}</td>
+						<td>{{rs2[1]}}</td>
+					
+					</tr>
+					{% endfor %}
+					</table>
